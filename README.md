@@ -53,3 +53,8 @@ tensor2 = xtc.create_tensor((3, 3), data=[[9, 8, 7], [6, 5, 4], [3, 2, 1]])
 result = xtc.matmul(tensor1, tensor2)
 print("Matrix Multiplication Result:", result)
 ```
+
+### Explanation
+
+- **XTC Class: The XTC class is used to represent tensors. You can create tensors of any shape and populate them with data. The class also provides a matmul method to perform matrix multiplication between two tensors.
+- **Matrix Multiplication: In the example, we create two 3x3 tensors and multiply them together using the matmul method. The result is printed to the console.
