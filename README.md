@@ -13,4 +13,6 @@
 
 ```bash
 git clone https://github.com/yourusername/XTC-Exponential-Tensor-Computing.git
-cd XTC-Exponential-Tensor-Computing
+cd XTC-Exponential-Tensor-Computing```
+
+## Install dependencies
