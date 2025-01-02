@@ -58,3 +58,15 @@ print("Matrix Multiplication Result:", result)
 
 - **XTC Class:** The XTC class is used to represent tensors. You can create tensors of any shape and populate them with data. The class also provides a matmul method to perform matrix multiplication between two tensors.
 - **Matrix Multiplication:** In the example, we create two 3x3 tensors and multiply them together using the matmul method. The result is printed to the console.
+
+## Documentation
+
+Detailed documentation on tensor operations, optimizations, and use cases is available in the /docs directory.
+
+## Contributing
+
+We welcome contributions! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
